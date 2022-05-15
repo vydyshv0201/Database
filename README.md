@@ -1,1 +1,1 @@
-MS SQL Server, PostgreSQL and other
+MS SQL Server, PostgreSQL и другое
